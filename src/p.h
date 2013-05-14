@@ -34,10 +34,6 @@ using namespace std;
 #define _SENDER ACS_TUI_3 /* axnroot */
 #define _LAYOUT_FILE "/etc/p/layout.xml"
 
-#ifndef UI_XCU
-#define UI_XCU 0x2231
-#endif
-
 #ifndef _BACKGROUND_COLOR
 #define _BACKGROUND_COLOR 0xbcbddf
 #endif
